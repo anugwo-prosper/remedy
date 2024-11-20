@@ -25,9 +25,7 @@ const FooterContainer = styled.footer`
     }
   }
 
-  .Privacy{
-    
-  }
+ 
   p {
     margin: 10px 0;
     line-height: 1.6;
@@ -69,6 +67,12 @@ const FooterContainer = styled.footer`
       margin: 0 5px;
     }
   }
+  .contact{
+    display: flex;
+  }
+  .addy{
+    margin-left: 660px;
+  }
 `;
 
 const Footer = () => {
@@ -92,10 +96,12 @@ const Footer = () => {
         not rely on such express exemptions, PureVita has elected to publish
         these notices.
       </p>
+      <div className="contact"><p className="number">CONTACT: +1(857) 688-1295</p>
+      <p className="addy">COMPANY ADDRESS: 5810 Kirkwood Hwy, Wilmington, DE, 19808</p></div>
       <div className="small-text"><p >© 2024 Christian Care Ministry. All Rights Reserved</p></div>
-      <p className="foot">
+      {/* <p className="foot">
         <a className="Privacy" href="#">Privacy Statement</a> | <a className="Terms" href="#">Terms & Conditions</a>
-      </p>
+      </p> */}
     </FooterContainer>
   );
 };

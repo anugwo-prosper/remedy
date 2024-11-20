@@ -103,8 +103,8 @@ const StatsSection = () => {
         <IconWrapper>
           <FaUser />
         </IconWrapper>
-        <Title>$8B+ Medical Bills Shared and Discounted</Title>
-        <Description>Over $8 billion in medical costs shared and discounted.</Description>
+        <Title>ROBERY BOTHA</Title>
+        <Description>DIRECTOR</Description>
       </Card>
 
       {/* Card 3 */}
@@ -112,29 +112,29 @@ const StatsSection = () => {
         <IconWrapper>
           <FaUser />
         </IconWrapper>
-        <Title>Highest Rated in Nation</Title>
-        <Description>Top-rated service across the nation for health coverage.</Description>
-      </Card>
-      <Card>
-        <IconWrapper>
-          <FaUser />
-        </IconWrapper>
-        <Title>KAYLIN DONOVA</Title>
+        <Title>GONZALEZ KINDRA</Title>
         <Description>RECRUITER</Description>
       </Card>
       <Card>
         <IconWrapper>
           <FaUser />
         </IconWrapper>
-        <Title>Highest Rated in Nation</Title>
-        <Description>Top-rated service across the nation for health coverage.</Description>
+        <Title>KAYLIN DONOVA</Title>
+        <Description>HEAD OF RECRUITING DEPARTMENT</Description>
+      </Card>
+      <Card>
+        <IconWrapper>
+          <FaUser />
+        </IconWrapper>
+        <Title>SYLVIA DUNN</Title>
+        <Description>PUREVITA REMEDIES MEMBER</Description>
       </Card>
       <Card>
         <IconWrapper>
           <FaUser />
         </IconWrapper>
         <Title>LYNDALE OAKWOOD</Title>
-        <Description>RECRUITER.</Description>
+        <Description>CUSTOMER SERVICE REPRESENTATIVE</Description>
       </Card>
     </StatsContainer>
     </>
