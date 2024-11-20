@@ -71,7 +71,7 @@ const FooterContainer = styled.footer`
     display: flex;
   }
   .addy{
-    margin-left: 660px;
+   
   }
 `;
 
