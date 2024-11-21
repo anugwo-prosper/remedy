@@ -60,7 +60,8 @@ const FooterContainer = styled.footer`
     font-size: 12px;
 
     .logo img {
-      width: 80px;
+      width: 220px;
+      /* height: 300px; */
     }
 
     a {
@@ -68,7 +69,7 @@ const FooterContainer = styled.footer`
     }
   }
   .contact{
-    display: flex;
+    /* display: flex; */
   }
   .addy{
    
